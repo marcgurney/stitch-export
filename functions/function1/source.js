@@ -1,7 +1,6 @@
 exports = function(arg){
   /*
     Accessing application's values:
-    var x = context.values.get("value_name");
 
     Accessing a mongodb service:
     var collection = context.services.get("mongodb-atlas").db("dbname").collection("coll_name");
